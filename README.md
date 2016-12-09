@@ -1,5 +1,4 @@
-========
-Wagon Builders for Cloudify
+# Wagon Builders for Cloudify
 
 Cloudify enables one to build and upload plugins to Cloudify which it then
 manages and can be referenced from within blueprints.  The uploaded plugin
